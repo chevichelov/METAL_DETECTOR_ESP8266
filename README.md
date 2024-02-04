@@ -1,5 +1,4 @@
-# METAL_DETECTOR_ESP8266
-Металлоискатель из швабры и ESP8266
+# Металлоискатель из швабры и ESP8266
 
 <h2 align="center">Главная страница</h2>
 <img src="https://github.com/chevichelov/METAL_DETECTOR_ESP8266/blob/main/IMG/MAIN.jpg" />
